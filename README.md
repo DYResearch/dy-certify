@@ -7,6 +7,7 @@
 [![Status](https://img.shields.io/badge/status-design-e8b04b?style=flat-square&labelColor=0e141d)](#what-is-not-here-yet)
 [![Licence](https://img.shields.io/badge/Apache--2.0%20OR%20MIT-475569?style=flat-square&labelColor=0e141d)](#licence)
 [![DY Research](https://img.shields.io/badge/DY%20Research-5b8def?style=flat-square&labelColor=0e141d)](https://github.com/DYResearch)
+[![AxonOS Radar](https://img.shields.io/badge/AxonOS%20Radar-open%20neurotech%20map-1f8fae?style=flat-square&labelColor=0b1220)](https://axonos-bci.github.io/axonos-community-radar/)
 
 </div>
 
